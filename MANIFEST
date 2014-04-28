@@ -8,3 +8,5 @@ rfc1319.txt
 t/badfile.t
 t/md2.t
 typemap
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

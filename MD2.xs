@@ -1,5 +1,3 @@
-/* $Id: MD2.xs,v 1.3 2003/07/23 06:33:38 gisle Exp $ */
-
 /* 
  * This library is free software; you can redistribute it and/or
  * modify it under the same terms as Perl itself.
